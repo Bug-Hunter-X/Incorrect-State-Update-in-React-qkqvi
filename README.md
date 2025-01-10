@@ -1,0 +1,1 @@
+This example demonstrates a common mistake in React state management.  The bug showcases an attempt to update state directly instead of using the setter function provided by `useState`.  The solution provides the correct approach, ensuring that React's update mechanism is used effectively.
